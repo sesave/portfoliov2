@@ -1,0 +1,34 @@
+{
+  "name": "portfolio-saas",
+  "version": "1.0.0",
+  "description": "MY portfolio with gulp and saas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebaskun98/portfolio-sass.git"
+  },
+  "keywords": [
+    "portfolio",
+    "saas",
+    "html",
+    "css",
+    "gulp"
+  ],
+  "author": "Sebastian Sánchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebaskun98/portfolio-sass/issues"
+  },
+  "homepage": "https://github.com/sebaskun98/portfolio-sass#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.12.0"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
