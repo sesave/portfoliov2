@@ -3,8 +3,12 @@
 - HTML5
 - Gulp
 - SASS
+
 ### New Tecnologies that I will use later:
 - Pug.js
+
+### Arquitectures that I used:
+- BEM 
 
 
 ### APACHE LICENSE, VERSION 2.0¶
