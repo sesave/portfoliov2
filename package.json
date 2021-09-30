@@ -25,10 +25,10 @@
   "homepage": "https://github.com/sebaskun98/portfolio-sass#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
-    "gulp-sass": "^4.0.2",
-    "node-sass": "^4.12.0"
+    "gulp-sass": "^5.0.0",
+    "node-sass": "^6.0.1"
   },
   "dependencies": {
-    "browser-sync": "^2.26.7"
+    "browser-sync": "^2.27.5"
   }
 }
